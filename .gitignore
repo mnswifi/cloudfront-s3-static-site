@@ -1,0 +1,7 @@
+envs/dev/.terraform*
+envs/dev/terraform*
+
+backend-launch/.terraform*
+backend-launch/terraform*
+
+.git
