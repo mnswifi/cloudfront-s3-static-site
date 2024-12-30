@@ -6,8 +6,7 @@
 ![alt text](S3-Static-Site-Design.png)
 
 
-
-# ## Usage - Example tfvars
+## Usage - Example tfvars
 
 ```bash
 ######################## Bucket Configuration ######################################
